@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778769324782",
+    "project_id": "auth-firebase-be13d",
+    "storage_bucket": "auth-firebase-be13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778769324782:android:e5195d4dc373cf283fb1ff",
+        "android_client_info": {
+          "package_name": "com.example.googleauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778769324782-pk0j5iuj5q39d81pho27fjuaign46ql7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIQZ9-wekO2CyVfTEV2FfBB0ygXNpElw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778769324782-pk0j5iuj5q39d81pho27fjuaign46ql7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
